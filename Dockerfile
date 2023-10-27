@@ -4,7 +4,7 @@ WORKDIR /app
 
 # ========= CONFIG =========
 # - download links
-ENV MODIFIED_DERPER_GIT=git@github.com:YUZHIRUN/tailscale_derp.git
+ENV MODIFIED_DERPER_GIT=https://github.com/YUZHIRUN/tailscale_derp.git
 ENV BRANCH=main
 # ==========================
 
